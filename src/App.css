@@ -1,0 +1,52 @@
+:root {
+  --main-background-color: #20293A;
+
+  --repo-background-color: linear-gradient(90deg, rgb(18, 23, 42) 0%, rgb(28, 27, 71) 100%);
+  --repo-background-color-hover: linear-gradient(90deg, rgba(31,39,73,1) 0%, rgba(42,40,110,1) 100%);
+
+  --title-color: #e7e8ea;
+  --paragraph-color: #8F9BAF;
+
+  --profile-key-color: #4A5567;
+  --profile-value-color: #C5CDD8;
+  
+  --placeholder-color: #515d6f;
+
+  --font-family: "Be Vietnam Pro", sans-serif;
+  --font-size-title: 1.25rem;
+  --font-size-body: 1rem;
+  --font-sie-small: 0.75rem;
+}
+
+* {
+  font-family: var(--font-family);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html,
+#root,
+body {
+  width: 100%;
+  background-color: var(--main-background-color);
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: block;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+textarea:focus, input:focus {
+  outline: none;
+}
+
+::placeholder {
+  color: var(--placeholder-color);
+}

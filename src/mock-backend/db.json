@@ -1,0 +1,106 @@
+{
+  "users_chaoting-sun": {
+    "username": "chaoting-sun",
+    "followers": 150,
+    "following": 583,
+    "location": "Kaohsiung, Taiwan",
+    "avatar_url": "https://images.pexels.com/photos/47547/squirrel-animal-cute-rodents-47547.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+  },
+  "users_harry-potter": {
+    "username": "Harry",
+    "followers": 345,
+    "following": 777,
+    "location": "San Francisco, America",
+    "avatar_url": "https://s.abcnews.com/images/US/HT_Capybaras_Fla2_MEM_160824_4x3_992.jpg"
+  },
+  "repos_chaoting-sun": [
+    {
+      "name": "Todoist",
+      "description": "Todoist is a versatile and intuitive task management application designed to help individuals and teams organize their daily activities, enhance productivity, and achieve their goals with efficiency. Developed for a seamless user experience, Todoist seamlessly integrates into various platforms, providing a unified solution for managing tasks across devices.",
+      "license": {
+        "name": "MIT License"
+      },
+      "forks_count": 42,
+      "stargazers_count": 123,
+      "updated_at": "2023-03-19T08:45:00Z",
+      "html_url": "https://github.com/chaoting-sun/todo-app-frontend/tree/main"
+    },
+    {
+      "name": "Weather Forecaster",
+      "description": "WeatherForecast is a comprehensive and user-friendly application that empowers users to stay informed about current and future weather conditions with precision and ease. Offering a rich set of features and a visually appealing interface, WeatherForecast is your go-to companion for reliable weather information.",
+      "license": {
+        "name": "GPL-3.0 License"
+      },
+      "forks_count": 56,
+      "stargazers_count": 210,
+      "updated_at": "2023-02-10T15:20:11Z",
+      "html_url": "https://github.com/chaoting-sun/todo-app-frontend/tree/main"
+    },
+    {
+      "name": "FitFlow Companion",
+      "description": "FitFlow Companion is a holistic fitness app designed to streamline your wellness journey. From multi-sport tracking and personalized workout plans to real-time GPS mapping and detailed performance analytics, this app adapts to your fitness needs. Stay motivated, achieve your goals, and experience the flow of a healthier, more active lifestyle.",
+      "license": {
+        "name": "MIT License"
+      },
+      "forks_count": 2369,
+      "stargazers_count": 703,
+      "updated_at": "2023-05-15T19:36:34Z",
+      "html_url": "https://github.com/chaoting-sun/todo-app-frontend/tree/main"
+    },
+    {
+      "name": "MindfulMood Journal",
+      "description": "MindfulMood Journal is more than just a mood tracking app; it's your personal well-being companion. Capture and reflect on your emotions, set daily intentions, and practice gratitude. With guided mindfulness exercises and insightful mood trends, this app helps you foster a positive mindset and navigate life's highs and lows with mindfulness.",
+      "license": {
+        "name": "Apache License 2.0"
+      },
+      "forks_count": 87,
+      "stargazers_count": 432,
+      "updated_at": "2023-04-28T10:15:22Z",
+      "html_url": "https://github.com/chaoting-sun/todo-app-frontend/tree/main"
+    },
+    {
+      "name": "ExploreEats",
+      "description": "Embark on a culinary adventure with ExploreEats, your go-to app for discovering and savoring new cuisines. This app curates restaurant recommendations, offers personalized foodie trails, and lets you bookmark favorite dishes. Whether you're a seasoned foodie or a curious explorer, let ExploreEats guide you to delightful dining experiences.",
+      "license": {
+        "name": "Apache License 2.0"
+      },
+      "forks_count": 32,
+      "stargazers_count": 98,
+      "updated_at": "2023-01-05T12:30:45Z",
+      "html_url": "https://github.com/chaoting-sun/todo-app-frontend/tree/main"
+    },
+    {
+      "name": "StudySync Hub",
+      "description": "StudySync Hub is the ultimate study companion for students of all ages. Organize your academic journey with intuitive features such as task tracking, collaborative study groups, and goal setting. With integrated calendars, resource libraries, and progress analytics, StudySync Hub ensures you stay focused, productive, and successful throughout your educational endeavors.",
+      "license": {
+        "name": "MIT License"
+      },
+      "forks_count": 75,
+      "stargazers_count": 150,
+      "updated_at": "2022-12-18T09:10:55Z",
+      "html_url": "https://github.com/chaoting-sun/todo-app-frontend/tree/main"
+    }
+  ],
+  "repos_harry-potter": [
+    {
+      "name": "ArtisanMarket Connect",
+      "description": "ArtisanMarket Connect is your digital gateway to unique, handcrafted treasures from around the world. Discover and support local artisans, browse curated collections, and make secure, direct purchases. Whether you're seeking one-of-a-kind jewelry, home decor, or fashion pieces, this app connects you with the stories and craftsmanship behind each artisanal creation.",
+      "license": {
+        "name": "GPL-3.0 License"
+      },
+      "forks_count": 63,
+      "stargazers_count": 180,
+      "updated_at": "2022-11-27T14:25:33Z",
+      "html_url": "https://github.com/chaoting-sun/todo-app-frontend/tree/main"
+    },
+    {
+      "name": "MindfulMinutes Timer",
+      "description": "Description: MindfulMinutes Timer is your serene companion for daily mindfulness and relaxation. Set personalized meditation sessions, choose soothing sounds, and let the app guide you through moments of calm. With interval reminders for deep breaths and gentle stretches, MindfulMinutes Timer empowers you to incorporate mindfulness into your busy day, promoting a sense of peace and balance.",
+      "license": null,
+      "forks_count": 3,
+      "stargazers_count": 10,
+      "updated_at": "2021-11-27T14:25:30Z",
+      "html_url": "https://github.com/chaoting-sun/todo-app-frontend/tree/main"
+    }
+  ]
+}
