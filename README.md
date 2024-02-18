@@ -32,7 +32,7 @@ install the repository and the related libraries.
 
 ```bash
 git clone git@github.com:chaoting-sun/github-profile-ts.git
-cd github-profile
+cd github-profile-ts
 npm install
 ```
 
